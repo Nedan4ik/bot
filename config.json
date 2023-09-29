@@ -1,0 +1,11 @@
+{
+  "prefix": "pon4ikzxc",
+  "password": "123456",
+  "autoJoin": {
+    "enabled": false,
+    "settings": {
+      "server": 2,
+      "disableChat": true
+    }
+  }
+}
